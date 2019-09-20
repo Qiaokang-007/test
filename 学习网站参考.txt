@@ -1,0 +1,5 @@
+Kafka、ActiveMQ、RabbitMQ、RocketMQ 有什么优缺点？
+https://www.cnblogs.com/wenxiangchen/p/11091357.html
+
+23种设计模式汇总整理
+https://blog.csdn.net/jason0539/article/details/44956775
